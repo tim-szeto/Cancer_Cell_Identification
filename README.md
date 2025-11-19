@@ -5,4 +5,4 @@ Survival is generally good due to early detection programmes and awareness. It i
 
 This project aims to train and evaluate a suite of machine learning algorithms (classification and clustering) to distinguish the difference between benign and malignant breast cells given morphology measurements.<br>
 
-NB: If .ipynb file does not render properly [click here](https://nbviewer.org/github/tim-szeto/Cancer_Cell_Identification/blob/main/breast_cancer_v1.ipynb).
+***NB: If .ipynb file does not render properly [click here](https://nbviewer.org/github/tim-szeto/Cancer_Cell_Identification/blob/main/breast_cancer_v1.ipynb).***
